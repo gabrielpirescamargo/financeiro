@@ -1,0 +1,447 @@
+{
+  "transactions": [
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1790.16,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "c97baf15-0f78-4a33-a2d2-f464f2a3e3e1",
+      "date": "05/31/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "c16f3a06-f202-41c7-84c0-91cb3b56bb8e",
+      "date": "06/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "6780a1a6-bd90-4345-ba2d-67579147b476",
+      "date": "06/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "f4e43729-687b-4571-a25b-cb18b7e032b5",
+      "date": "07/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "a5c241b4-7aa2-4a07-b43e-50ed20851e96",
+      "date": "07/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "2f2d0472-5c60-4784-92b1-d167b758819f",
+      "date": "08/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "d10e2e7f-4d61-4c70-b3a4-2c5b8a1415f5",
+      "date": "08/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "c96f6c3a-fb5e-426e-95c3-cf1b6b42e97f",
+      "date": "09/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "dd82e108-d89d-4b69-8648-1e80f13dc95a",
+      "date": "09/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "7b8d9d12-33a4-4629-bcb1-17790a582f38",
+      "date": "10/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "9a15e03d-d881-4780-b75e-6e6a0bb17ad4",
+      "date": "10/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "f41eb30a-d6b3-4e63-8915-502c13c1c8b4",
+      "date": "11/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "9c7d7d68-408d-43e2-9e0d-efeb3a44de3f",
+      "date": "11/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "4e0b5fe1-7f80-4aa5-8f59-8f381fd751c8",
+      "date": "12/15/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "29d8d45d-1623-4182-9ad1-350c65db5a07",
+      "date": "12/30/2023"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "8ff25fbb-547f-4a7b-a35b-5b8f60725d4b",
+      "date": "01/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "25c9b2df-fcf7-4d47-aa0e-3f7e0e99e498",
+      "date": "01/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "7b1de246-09e1-4902-ba02-d342e83df6ff",
+      "date": "02/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "2ee8e7d5-460b-40c8-b497-3c3b92902f50",
+      "date": "02/29/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "d7e53f49-12cb-4526-943d-76df1d5e10cb",
+      "date": "03/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "c2280d2f-4ff9-4bbf-a962-930535f6b3e2",
+      "date": "03/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "9cbe3f6c-836a-422d-8501-d15b1bcfd67a",
+      "date": "04/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "1d35e22f-8849-4da7-85f0-6926344ab9a2",
+      "date": "04/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "8b2c8d67-ee31-40ef-9750-90e32798b70c",
+      "date": "05/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "d5b2c04d-104b-4a6e-847f-59c2b5b2df3e",
+      "date": "05/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "a5b3a0db-e1c4-4ab7-8912-df99202fb96a",
+      "date": "06/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "389da04d-3725-4563-b60f-bffed8c10cb3",
+      "date": "06/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "d9f565b8-48d5-4cf7-b9a7-724dd2774514",
+      "date": "07/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "f3fde5a2-0352-41b6-b18d-dbd00c1d0f67",
+      "date": "07/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "75970b5f-152f-4412-bd35-c9f8e20b8480",
+      "date": "08/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "9c8e2010-48b3-4bb4-8d2a-4b2be025e3c1",
+      "date": "08/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "447e66f8-04b7-4701-a121-99a73c886597",
+      "date": "09/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "8ee02b1f-76b9-4e5f-8a80-d6bb00e067c5",
+      "date": "09/30/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Adiantamento do salario",
+      "value": 3317.5,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "e7d1bc22-73b5-40ed-b5a0-8d7f7ac9ff5a",
+      "date": "10/15/2024"
+    },
+    {
+      "origin": "nubank",
+      "name": "Salario",
+      "value": 1830.6,
+      "status": "Recebido",
+      "type": "entrada",
+      "id": "cbcf7cb4-4f3b-4a7b-b601-f0d5e818b6b4",
+      "date": "10/30/2024"
+    },
+    {
+      "origin": "canada",
+      "name": "Passaporte",
+      "value": 250,
+      "status": "Pago",
+      "type": "saida",
+      "id": "20ff8c04-51b4-4e45-b0d6-48ef78c37e4f",
+      "date": "02/05/2024"
+    },
+    {
+      "origin": "canada",
+      "name": "Passagens",
+      "value": 7600,
+      "status": "Pago",
+      "type": "saida",
+      "id": "20ff8c04-51b4-4e45-b0d6-48ef78c37e4f",
+      "date": "02/05/2024"
+    },
+    {
+      "origin": "canada",
+      "name": "Case mac mini",
+      "link": "https://www.amazon.ca/Compatible-Previous-Electronics-Organizer-Accessories/dp/B0B613BQ28/ref=sr_1_19?crid=CIYI2AYR1DNK&keywords=mac%2Bmini%2B16%2Bgb&qid=1708185550&sprefix=mac%2Bmini%2B16%2Bgb%2Caps%2C203&sr=8-19&th=1",
+      "value": 162,
+      "status": "Pago",
+      "type": "saida",
+      "id": "20ff8c04-51b4-4e45-b0d6-48ef78c37e4f",
+      "date": "02/05/2024"
+    },
+    {
+      "origin": "canada",
+      "name": "Magin keyboard",
+      "link": "https://www.apple.com/ca/shop/product/MK293LL/A/magic-keyboard-with-touch-id-for-mac-models-with-apple-silicon-us-english?fnode=99023fae7b9de9cc9ea975656c2f4ea5ef124a9877d48ba211a0101e7c261394ec7ea7a6866e9403bcc50a68223757b05c4ca96273fbfc56fccb98860be640deae24126f6d5bcabe15759db240be679fb63fcbf749dae388d4f9ecff128b1734",
+      "value": 659,
+      "status": "Pago",
+      "type": "saida",
+      "id": "20ff8c04-51b4-4e45-b0d6-48ef78c37e4f",
+      "date": "02/05/2024"
+    },
+    {
+      "origin": "ap",
+      "name": "Parcela mensal",
+      "value": 3000,
+      "status": "Pago",
+      "type": "saida",
+      "id": "004dbd34-82e7-4684-b9d1-478c686b3e7f",
+      "date": "01/30/2024"
+    },
+    {
+      "origin": "ap",
+      "name": "Parcela mensal",
+      "value": 3000,
+      "status": "Pago",
+      "type": "saida",
+      "id": "004dbd34-82e7-4684-b9d1-478c686b3e7f",
+      "date": "01/30/2024"
+    },
+    {
+      "origin": "ap",
+      "name": "Parcela mensal",
+      "value": 3000,
+      "status": "Pago",
+      "type": "saida",
+      "id": "ae44e874-611a-4a91-8eb0-7694a3140f80",
+      "date": "02/30/2024"
+    },
+    {
+      "origin": "ap",
+      "name": "Parcela mensal",
+      "value": 3000,
+      "status": "Pago",
+      "type": "saida",
+      "id": "e74640ac-2ef4-4387-8e1c-ff0bfc40fc1d",
+      "date": "03/30/2024"
+    },
+    {
+      "origin": "ap",
+      "name": "Parcela anual",
+      "value": 13000,
+      "status": "A pagar",
+      "type": "saida",
+      "id": "a10d8d92-0b64-4e2b-9a69-560df317f4b8",
+      "date": "12/30/2024"
+    }
+  ],
+
+  "cards": [
+    {
+      "id": "nubank",
+      "name": "Nubank",
+      "image": "/src/assets/cards/nubank.png",
+      "logo": "/src/assets/logos/nubank.png",
+      "color": "#A031FF"
+    },
+    {
+      "id": "inter",
+      "name": "Inter",
+      "image": "/src/assets/cards/inter.png",
+      "logo": "/src/assets/logos/inter.jpeg",
+      "color": "#FFA350"
+    },
+    {
+      "id": "renner",
+      "name": "Renner",
+      "image": "/src/assets/cards/renner.png",
+      "logo": "/src/assets/logos/renner.png",
+      "color": "#FF4343"
+    },
+    {
+      "id": "magalu",
+      "name": "Cartao luiza",
+      "image": "/src/assets/cards/magalu.png",
+      "logo": "/src/assets/logos/magalu.png",
+      "color": "#8AC5FF"
+    },
+    {
+      "name": "Canada",
+      "color": "#CD3737",
+      "id": "canada",
+      "image": "/src/assets/cards/canada.png",
+      "logo": "/src/assets/logos/canada.png"
+    },
+    {
+      "name": "b301",
+      "color": "#A06DD2",
+      "id": "ap",
+      "image": "/src/assets/cards/ap.png",
+      "logo": "/src/assets/logos/ap.png"
+    }
+  ]
+}
